@@ -5,8 +5,10 @@
 The original paper focuses on wikipedia data, where people are mostly passive. They look for information but do not interact with each other. But does a chilling effect also exist on platforms with interaction ? To look into this question, we will collect tweets (from Twitter) over the period of study of the article. Tweets with the keywords of the 48 topic keywords from the article will be analysed, giving us insight on the chilling effect upon active behavior of people. We will investigate these keywords from the original article, to distinguish between "meta" tweets, talking about the effect of surveillance, or discussing an entirely different subject, for example keyword nuclear, or attack might be related to different topics entirely, whereas ammonium nitrate or dirty bomb might not be so often present in tweets about non privacy sensitive subjects. We will have information about retweets, likes, users posting the content, and will therefore expand or restrict the original paper focus. 
 
 ## 2. Research Questions
-Does the chilling effect also take place on social media ?
-Is social media a usable medium to ask these kinds of questions ?
+
+- Does the chilling effect also take place on social media ?
+
+- Is social media a usable medium to ask these kinds of questions ?
 
 ## 3. Proposed dataset
 Using the python library [Twint](https://github.com/twintproject/twint) we will scrape twitter data from around our period. Existing datasets cannot be freely shared as per twitter privacy policy.
