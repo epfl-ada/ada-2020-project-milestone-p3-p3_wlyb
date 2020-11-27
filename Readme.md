@@ -28,7 +28,7 @@ Then we will report the findings, answering the questions asked in 2.
 We have worked on the collection of data already, as it was a crucial point to test the feasibility. But we will need to fully finish it.
 
 ## 6. Organisation Within the Team :
-* Collection the original data
+* Collecting the original data
   * Dividing the collection among the team members
   * Merging the collected data into one raw dataset
 
