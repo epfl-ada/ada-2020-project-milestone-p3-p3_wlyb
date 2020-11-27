@@ -9,7 +9,7 @@ Does the chilling effect also take place on social media ?
 Is social media a usable medium to ask these kinds of questions ?
 
 ## 3. Proposed dataset
-Using the python library Twint (https://github.com/twintproject/twint) we will scrape twitter data from around our period. Existing datasets cannot be freely shared as per twitter privacy policy.
+Using the python library [Twint](https://github.com/twintproject/twint) we will scrape twitter data from around our period. Existing datasets cannot be freely shared as per twitter privacy policy.
 After a few tests, we were quickly able to collect thousands of tweets, for example the "dirty bomb" keyword got 18 000 tweets over a two year period.
 
 
