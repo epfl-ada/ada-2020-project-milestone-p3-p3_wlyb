@@ -44,4 +44,5 @@ We have worked on the collection of data already, as it was a crucial point to t
 
 
 ## 7. Questions for TAs (?)
-Sup?
+1. We have missing data because of deleted or shadow-banned accounts how to handle that
+2. We notice some tweets that are irrelevant to the subject, they speak of non-privacy-related issues, how to handle that?
