@@ -43,5 +43,5 @@ We have worked on the collection of data already, as it was a crucial point to t
 
 
 
-8. Questions for TAs (?)
+## 7. Questions for TAs (?)
 Sup?
