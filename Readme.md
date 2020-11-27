@@ -24,6 +24,7 @@ Then we will report the findings, answering the questions asked in 2.
 1. Week 1: Collecting Tweets and Data Wrangling
 2. Week 2: Data Modelling and Analysis and Visulisation
 3. Week 3: Wrap-up and Create Data Story
+
 We have worked on the collection of data already, as it was a crucial point to test the feasibility. But we will need to fully finish it.
 
 ## 6. Organisation Within the Team :
