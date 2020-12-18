@@ -48,3 +48,11 @@ We have worked on the collection of data already, as it was a crucial point to t
 ## 7. Questions for TAs (?)
 1. We have missing data because of deleted or shadow-banned accounts how to handle that
 2. We notice some tweets that are irrelevant to the subject, they speak of non-privacy-related issues, how to handle that?
+
+# After completion : work distribution
+
+Basile: Data wrangling, getting the hundreds of millions of tweets (and tens of gigabytes), preparing it for loading.
+
+Abed: First data analysis, extracting useful sorting criterion. 
+
+Théophane: Analysis of the data as the original paper did, plotting of this information.
